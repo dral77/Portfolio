@@ -5,4 +5,4 @@ This is my portfolio
 Integrate VS Code with GIT
 Make AL NAV Extension
 Test Extension
-
+Deploy Extension
